@@ -1,17 +1,15 @@
 # todolistraw
 
-A new Flutter project.
+App de Lista de Tarefas simples feito em Flutter + Dart na arquitetura MVVM e com banco de dados local usando Hive.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="424" height="936" alt="App_demo" src="https://github.com/user-attachments/assets/7cf94712-6fe1-4aba-b1a4-ca8bb5314474" />
+<img width="424" height="936" alt="App_demo1" src="https://github.com/user-attachments/assets/996b99eb-d405-4a78-9cbd-5d0fc7d315a5" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Adicionar tarefas
+- Marcar tarefas como Feito/Não feito
+- Deletar tarefas
